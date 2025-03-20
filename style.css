@@ -1,0 +1,31 @@
+p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
+#signup-form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+#footer {
+  background-color: black;
+  margin: 0;
+}
+
+#footer ul {
+  margin: 0;
+}
+
+.hover-text-light:hover {
+  color: #f8f9fa !important;
+  transition: color 0.4s ease;
+}
+
+.custom-btn {
+  background-color: blue;
+  color: white;
+}
+
